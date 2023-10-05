@@ -1,3 +1,6 @@
 print('Hello World')
 for i in range(5):
 	print('current count is:',i)
+j=0
+while j<11:
+	print('J value is', j)
