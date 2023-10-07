@@ -1,2 +1,3 @@
 I am creating a conflict, in master
 This text is to create conflict, in new branch
+changes made
